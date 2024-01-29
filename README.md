@@ -1,4 +1,4 @@
-## C++ cubic spline interpolation
+##*C++!cubic spline interpolation
 
 ![cubic C2 spline](https://kluge.in-chemnitz.de/opensource/spline/cubic_c2_spline_git.png)
 
@@ -80,3 +80,4 @@ A function to enforce monotonicity is available as well:
 
 ### References
 https://kluge.in-chemnitz.de/opensource/spline/
+ 
